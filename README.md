@@ -4,7 +4,7 @@ go inside springboot-angular-freemarker-mysql
 
      method:
 
-     needed sofware(maven ,java 1.8)
+     needed sofware(maven ,java 1.8,mysql)
 
     run the command mvn clean package
     go inside springboot-angular-freemarker-mysql /target
